@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>configuracion_frame1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{380,383}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8,8},{380,383}}</string>
+			<key>sourceSize</key>
+			<string>{396,399}</string>
+		</dict>
+		<key>configuracion_frame2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{384,2},{380,383}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8,8},{380,383}}</string>
+			<key>sourceSize</key>
+			<string>{396,399}</string>
+		</dict>
+		<key>configuracion_frame3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{766,2},{380,383}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8,8},{380,383}}</string>
+			<key>sourceSize</key>
+			<string>{396,399}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>configuracionImagenAnimacion.png</string>
+		<key>size</key>
+		<string>{1148,387}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:17b65293afde323e9e96f403d55ebdcb:f94dad97e3456bdb75d31d0b66f91438:3e323cd92d4fda1fbdc8426c376cc29c$</string>
+		<key>textureFileName</key>
+		<string>configuracionImagenAnimacion.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>frame1_murcielago.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{404,2},{482,299}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1,1},{482,299}}</string>
+			<key>sourceSize</key>
+			<string>{484,301}</string>
+		</dict>
+		<key>frame2_murcielago.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{400,301}}</string>
+			<key>offset</key>
+			<string>{8,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50,0},{400,301}}</string>
+			<key>sourceSize</key>
+			<string>{484,301}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>pruebaAnimacionMurcielago.png</string>
+		<key>size</key>
+		<string>{888,305}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:ac9bab408a3a203bbf2f8258b5634409:dad3295b66a31ba30a652a53583362e1:bfcd371a0e4f35bef448acf4a6a4dba9$</string>
+		<key>textureFileName</key>
+		<string>pruebaAnimacionMurcielago.png</string>
+	</dict>
+</dict>
+</plist>

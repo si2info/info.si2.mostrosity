@@ -1,0 +1,554 @@
+{
+    "aPreguntas": [
+                   {
+                   "txtPregunta": "¿Cual de los mostros está triste?",
+                   "audioPregunta": "pre_triste.mp3",
+                   "txtPreguntaEN": "Which of the Mostros is sad?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 3,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_10.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los mostros está contento?",
+                   "audioPregunta": "pre_contento.mp3",
+                   "txtPreguntaEN": "Which Mostro is happy?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 1,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_10.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los mostros tiene miedo?",
+                   "audioPregunta": "pre_miedo.mp3",
+                   "txtPreguntaEN": "Which Mostro is afraid?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 2,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los mostros está sorprendido?",
+                   "audioPregunta": "pre_sorprendido.mp3",
+                   "txtPreguntaEN": "Which Mostro is surprised?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 0,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_10.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los mostros es azul?",
+                   "audioPregunta": "pre_es_azul.mp3",
+                   "txtPreguntaEN": "Which Mostro is blue?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 1,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_05.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los mostros es amarillo?",
+                   "audioPregunta": "pre_es_amarillo.mp3",
+                   "txtPreguntaEN": "Which Mostro is yellow?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 3,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_10.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_09.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los mostros es verde?",
+                   "audioPregunta": "pre_es_verde.mp3",
+                   "txtPreguntaEN": "Which Mostro is green?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 2,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los mostros es morado?",
+                   "audioPregunta": "pre_es_morado.mp3",
+                   "txtPreguntaEN": "Which Mostro is purple?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 3,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál hace menos deporte?",
+                   "audioPregunta": "pre_menos_deporte.mp3",
+                   "txtPreguntaEN": "Which one do less sport?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 1,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál tiene los ojos más grandes?",
+                   "audioPregunta": "pre_ojosgrandes.mp3",
+                   "txtPreguntaEN": "Which of them has the largest eyes?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 3,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_05.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál tiene la boca más abierta?",
+                   "audioPregunta": "pre_boca_abierta.mp3",
+                   "txtPreguntaEN": "Which one has the most open mouth?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 2,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_05.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál es más alto?",
+                   "audioPregunta": "pre_mas_alto.mp3",
+                   "txtPreguntaEN": "Which one is higher?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 0,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál tiene los ojos encima de la cabeza?",
+                   "audioPregunta": "pre_ojos_encima_cabeza.mp3",
+                   "txtPreguntaEN": "Which of them has eyes on the head?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 3,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_05.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál tiene los ojos debajo de la boca?",
+                   "audioPregunta": "FALTA.mp3",
+                   "txtPreguntaEN": "Which one has the eyes below the mouth?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 0,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál tiene el pelo a los lados de la cabeza?",
+                   "audioPregunta": "pre_pelo_lados_cabeza.mp3",
+                   "txtPreguntaEN": "Which one has hair on the sides of the head?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 1,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_10.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Qué mostro tiene solo un ojo?",
+                   "audioPregunta": "pre_solo_un_ojo.mp3",
+                   "txtPreguntaEN": "What mostro has only one eye?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 3,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Qué Mostro tiene más de dos brazos?",
+                   "audioPregunta": "pre_mas_dos_brazos.mp3",
+                   "txtPreguntaEN": "What Mostro has more than two arms?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 0,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Qué mostro no tiene pies?",
+                   "audioPregunta": "pre_no_pies.mp3",
+                   "txtPreguntaEN": "What Mostro have no feet?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 2,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_09.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Qué Mostro tiene alas?",
+                   "audioPregunta": "pre_tiene_alas.mp3",
+                   "txtPreguntaEN": "What Mostro has wings?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 3,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_07.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_01.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Qué Mostro tiene dientes?",
+                   "audioPregunta": "pre_tiene_dientes.mp3",
+                   "txtPreguntaEN": "What Mostro has teeth?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 2,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Qué Mostro tiene cuernos?",
+                   "audioPregunta": "pre_tiene_cuernos.mp3",
+                   "txtPreguntaEN": "What Mostro has horns?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 1,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_05.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Qué Mostro no tiene brazos?",
+                   "audioPregunta": "pre_no_brazos.mp3",
+                   "txtPreguntaEN": "What Mostro has no arms?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 2,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_09.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_10.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_05.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los Mostros tiene gafas?",
+                   "audioPregunta": "pre_tiene_gafas.mp3",
+                   "txtPreguntaEN": "Which Mostro have glasses?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 0,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_04.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_05.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_02.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los Mostros tiene sombrero?",
+                   "audioPregunta": "pre_tiene_sombrero.mp3",
+                   "txtPreguntaEN": "Which of them has hat?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 2,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_11.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_09.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   }
+                                   ]
+                   },
+                   {
+                   "txtPregunta": "¿Cuál de los Mostros no tiene ningún complemento?",
+                   "audioPregunta": "pre_no_complemento.mp3",
+                   "txtPreguntaEN": "Which of them do not have any add-on?",
+                   "audioPreguntaEN": "",
+                   "audioSegundos": 1.5,
+                   "iRespuesta": 1,
+                   "aRespuestas": [
+                                   {
+                                   "img": "preguntator_mostro_03.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_06.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_10.png"
+                                   },
+                                   {
+                                   "img": "preguntator_mostro_08.png"
+                                   }
+                                   ]
+                   }
+                   ]
+}

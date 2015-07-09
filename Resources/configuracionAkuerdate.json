@@ -1,0 +1,712 @@
+{
+    "profesiones": [
+                    {
+                    "nombre": "Tenista",
+                    "nombreEN": "Tennis player",                        
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_tenista_raqueta.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Raqueta",
+                                  "audio": "ak_raqueta.mp3",
+                                  "txtEN":"Racket",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_tenista_pelota.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 490
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Pelota",
+                                  "audio": "ak_pelota.mp3",
+                                  "txtEN":"ball",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_tenista_copa_meaos.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Copa",
+                                  "audio": "ak_copa.mp3",
+                                  "txtEN":"Award",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_tenista_alpargata.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Zapatilla",
+                                  "audio": "ak_zapatillas.mp3",
+                                  "txtEN":"Shoe",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Pintor",
+                    "nombreEN": "Painter",                        
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_pintor_pincel.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Pincel",
+                                  "audio": "ak_pincel.mp3",
+                                  "txtEN":"Brush",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_pintor_paleta.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 490
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Paleta",
+                                  "audio": "ak_paleta.mp3",
+                                  "txtEN":"Palette",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_pintor_gorro.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Gorro",
+                                  "audio": "ak_gorro.mp3",
+                                  "txtEN":"Hat",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_pintor_caballete.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1120
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Caballete",
+                                  "audio": "ak_caballete.mp3",
+                                  "txtEN":"Easel",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Piloto",
+                    "nombreEN": "Pilot",                        
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_piloto_ruea.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Rueda",
+                                  "audio": "ak_rueda.mp3",
+                                  "txtEN":"Wheel",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_piloto_mono.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 490
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Mono",
+                                  "audio": "ak_mono.mp3",
+                                  "txtEN":"Pilot suit",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_piloto_casco.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Casco",
+                                  "audio": "ak_casco.mp3",
+                                  "txtEN":"Helmet",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_piloto_bandera.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Bandera",
+                                  "audio": "ak_bandera.mp3",
+                                  "txtEN":"Flag",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Panadero",
+                    "nombreEN": "Baker",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_panadero_rodillo.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 450
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Rodillo",
+                                  "audio": "ak_rodillo.mp3",
+                                  "txtEN":"Rolling Pin",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_panadero_pastel.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Pastel",
+                                  "audio": "ak_pastel.mp3",
+                                  "txtEN":"Cake",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_panadero_pan_02.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Pan",
+                                  "audio": "ak_panes.mp3",
+                                  "txtEN":"Bread",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_panadero_galletas.png",
+                                  "pos": {
+                                  "x": 290,
+                                  "y": 200
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Galletas",
+                                  "audio": "ak_galletas.mp3",
+                                  "txtEN":"Cookies",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Músico",
+                    "nombreEN": "Musician",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_musico_piano.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Piano",
+                                  "audio": "ak_piano.mp3",
+                                  "txtEN":"Piano",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_musico_partituras.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 490
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Partituras",
+                                  "audio": "ak_partituras.mp3",
+                                  "txtEN":"Scores",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_musico_microfono.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Micrófono",
+                                  "audio": "ak_micro.mp3",
+                                  "txtEN":"Microphone",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_musico_guitarra.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1120
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Guitarra",
+                                  "audio": "ak_guitarra.mp3",
+                                  "txtEN":"Guitar",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Jardinero",
+                    "nombreEN": "Gardener",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_jardinero_tijeras_poda.png",
+                                  "pos": {
+                                  "x": 900,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Tijeras",
+                                  "audio": "ak_tijeras.mp3",
+                                  "txtEN":"Scissors",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_jardinero_regaera.png",
+                                  "pos": {
+                                  "x": 800,
+                                  "y": 650
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Regadera",
+                                  "audio": "ak_regadera.mp3",
+                                  "txtEN":"Water can",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_jardinero_rastrillo.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Rastrillo",
+                                  "audio": "ak_rastrillo.mp3",
+                                  "txtEN":"Rake",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_jardinero_carretilla.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Carretilla",
+                                  "audio": "ak_carretilla.mp3",
+                                  "txtEN":"Wheelbarrow",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_frutero_zanahorias.png",
+                                  "pos": {
+                                  "x": 200,
+                                  "y": 300
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Zanahorias",
+                                  "audio": "ak_zanahorias.mp3",
+                                  "txtEN":"Carrots",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Frutero",
+                    "nombreEN": "Fruiterer",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_frutero_rabano.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Rábano",
+                                  "audio": "ak_rabano.mp3",
+                                  "txtEN":"Radish",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_frutero_platano.png",
+                                  "pos": {
+                                  "x": 900,
+                                  "y": 450
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Plátano",
+                                  "audio": "ak_platano.mp3",
+                                  "txtEN":"Banana",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_frutero_pera.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Pera",
+                                  "audio": "ak_pera.mp3",
+                                  "txtEN":"Pear",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_frutero_manzana.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Manzana",
+                                  "audio": "ak_manzana.mp3",
+                                  "txtEN":"Apple",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Detective",
+                    "nombreEN": "Detective",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_detective_sombrero.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Sombrero",
+                                  "audio": "ak_sombrero.mp3",
+                                  "txtEN":"Hat",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_detective_pipa.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 490
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Pipa",
+                                  "audio": "ak_pipa.mp3",
+                                  "txtEN":"Pipe",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_detective_lupa.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Lupa",
+                                  "audio": "ak_lupa.mp3",
+                                  "txtEN":"Lens",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_detective_gabardina.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Gabardina",
+                                  "audio": "ak_gabardina.mp3",
+                                  "txtEN":"Raincoat",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Cocinero",
+                    "nombreEN": "Chef",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_cocinero_sarten.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Sartén",
+                                  "audio": "ak_sarten.mp3",
+                                  "txtEN":"Pan",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_cocinero_rasera.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 490
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Rasera",
+                                  "audio": "ak_rasera.mp3",
+                                  "txtEN":"Skimmer",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_cocinero_guante_horno.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Guante",
+                                  "audio": "ak_guantes.mp3",
+                                  "txtEN":"Oven mitt",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_cocinero_gorro.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Gorro",
+                                  "audio": "ak_gorro.mp3",
+                                  "txtEN":"Toque",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Bombero",
+                    "nombreEN": "Fireman",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_bombero_hacha.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Hacha",
+                                  "audio": "ak_hacha.mp3",
+                                  "txtEN":"Axe",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_bombero_extintor.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 490
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Extintor",
+                                  "audio": "ak_extintor.mp3",
+                                  "txtEN":"Extinguisher",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_bombero_escalera.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Escalera",
+                                  "audio": "ak_escalera.mp3",
+                                  "txtEN":"Ladder",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_bombero_casco.png",
+                                  "pos": {
+                                  "x": 860,
+                                  "y": 1220
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Casco",
+                                  "audio": "ak_casco.mp3",
+                                  "txtEN":"Helmet",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Jugador de Baloncesto",
+                    "nombreEN": "Basketball player",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_basket_pelota.png",
+                                  "pos": {
+                                  "x": 500,
+                                  "y": 250
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Pelota",
+                                  "audio": "ak_pelota.mp3",
+                                  "txtEN":"Ball",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_basket_canasta.png",
+                                  "pos": {
+                                  "x": 800,
+                                  "y": 740
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Canasta",
+                                  "audio": "ak_canasta.mp3",
+                                  "txtEN":"Basket",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_basket_camiseta.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 920
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Camiseta",
+                                  "audio": "ak_camiseta.mp3",
+                                  "txtEN":"Shirt",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    },
+                    {
+                    "nombre": "Astronauta",
+                    "nombreEN": "Astronaut",    
+                    "fondo": "cielo.png",
+                    "elementos": [
+                                  {
+                                  "img": "akuerdate_astronauta_bandera.png",
+                                  "pos": {
+                                  "x": 600,
+                                  "y": 1200
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Bandera",
+                                  "audio": "ak_bandera.mp3",
+                                  "txtEN":"Flag",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_astronauta_casco.png",
+                                  "pos": {
+                                  "x": 1000,
+                                  "y": 400
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Casco",
+                                  "audio": "ak_casco.mp3",
+                                  "txtEN":"Helmet",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_astronauta_cohete.png",
+                                  "pos": {
+                                  "x": 300,
+                                  "y": 800
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Cohete",
+                                  "audio": "ak_cohete.mp3",
+                                  "txtEN":"Rocket",
+                                  "audioEN":""
+                                  },
+                                  {
+                                  "img": "akuerdate_astronauta_planeta.png",
+                                  "pos": {
+                                  "x": 900,
+                                  "y": 900
+                                  },
+                                  "zIndex": 0,
+                                  "giro": 0,
+                                  "txt": "Planeta",
+                                  "audio": "ak_planeta.mp3",
+                                  "txtEN":"Planet",
+                                  "audioEN":""
+                                  }
+                                  ]
+                    }
+                    ]
+}

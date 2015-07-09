@@ -1,0 +1,707 @@
+{
+  "recursos": [
+    {
+      "id": 3,
+      "nombre": "ojos",
+      "contenido": [
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_ojos_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_ojos_m__0001.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_ojos_m__0002.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 4,
+          "uri": "mostrosity_mimostro_mostro_ojos_m__0003.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 5,
+          "uri": "mostrosity_mimostro_mostro_ojos_m__0004.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 6,
+          "uri": "mostrosity_mimostro_mostro_ojos_m__0005.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 7,
+          "uri": "mostrosity_mimostro_mostro_ojos_m__0006.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "dientes",
+      "contenido": [
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0001.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0002.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 4,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0003.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 5,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0004.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 6,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0005.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 7,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0006.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 8,
+          "uri": "mostrosity_mimostro_mostro_dientes_m__0007.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Brazos",
+      "contenido": [
+        {
+            "id": 0,
+            "uri": "recursoVacio.png",
+            "bloqueado": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "giro": 0,
+            "doble": 0,
+            "separacion": 0
+        },
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_brazos_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_brazos_m__0001.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_brazos_m__0002.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 4,
+          "uri": "mostrosity_mimostro_mostro_brazos_m__0003.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 5,
+          "uri": "mostrosity_mimostro_mostro_brazos_m__0004.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 6,
+          "uri": "mostrosity_mimostro_mostro_brazos_m__0005.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Pies",
+      "contenido": [
+        {
+            "id": 0,
+            "uri": "recursoVacio.png",
+            "bloqueado": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "giro": 0,
+            "doble": 0,
+            "separacion": 0
+        },
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_pies_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_pies_m__0001.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_pies_m__0002.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 4,
+          "uri": "mostrosity_mimostro_mostro_pies_m__0003.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 5,
+          "uri": "mostrosity_mimostro_mostro_pies_m__0004.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Alas",
+      "contenido": [
+        {
+          "id": 0,
+          "uri": "recursoVacio.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_alas_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_alas_m__0001.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_alas_m__0002.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Orejas",
+      "contenido": [
+        {
+          "id": 0,
+          "uri": "recursoVacio.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_orejas_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_orejas_m__0001.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Pelo",
+      "contenido": [
+        {
+          "id": 0,
+          "uri": "recursoVacio.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_pelo_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_pelo_m__0001.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_pelo_m__0002.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 4,
+          "uri": "mostrosity_mimostro_mostro_pelo_m__0003.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 5,
+          "uri": "mostrosity_mimostro_mostro_pelo_m__0004.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 6,
+          "uri": "mostrosity_mimostro_mostro_pelo_m__0005.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Accesorios",
+      "contenido": [
+        {
+          "id": 0,
+          "uri": "recursoVacio.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_accesorios_m__0000.png",
+          "bloqueado": 0,
+          "x": 0,
+          "y": 150,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_accesorios_m__0001.png",
+          "bloqueado": 0,
+          "x": -170,
+          "y": 350,
+          "z": 5,
+          "giro": -20,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_accesorios_m__0002.png",
+          "bloqueado": 1,
+          "x": 120,
+          "y": 350,
+          "z": 5,
+          "giro": 35,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 4,
+          "uri": "mostrosity_mimostro_mostro_accesorios_m__0003.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": -200,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 5,
+          "uri": "mostrosity_mimostro_mostro_accesorios_m__0004.png",
+          "bloqueado": 1,
+          "x": 380,
+          "y": 30,
+          "z": -6,
+          "giro": 30,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 6,
+          "uri": "mostrosity_mimostro_mostro_accesorios_m__0005.png",
+          "bloqueado": 1,
+          "x": 0,
+          "y": 20,
+          "z": 0,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Colores",
+      "contenido": [
+        {
+          "id": 1,
+          "uri": "mostrosity_mimostro_mostro_color__0000.png",
+          "bloqueado": 0,
+          "x": 245,
+          "y": 61,
+          "z": 87,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 2,
+          "uri": "mostrosity_mimostro_mostro_color__0001.png",
+          "bloqueado": 0,
+          "x": 216,
+          "y": 254,
+          "z": 52,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 3,
+          "uri": "mostrosity_mimostro_mostro_color__0002.png",
+          "bloqueado": 1,
+          "x": 255,
+          "y": 152,
+          "z": 106,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 4,
+          "uri": "mostrosity_mimostro_mostro_color__0003.png",
+          "bloqueado": 1,
+          "x": 214,
+          "y": 151,
+          "z": 30,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 5,
+          "uri": "mostrosity_mimostro_mostro_color__0004.png",
+          "bloqueado": 1,
+          "x": 182,
+          "y": 117,
+          "z": 198,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 6,
+          "uri": "mostrosity_mimostro_mostro_color__0005.png",
+          "bloqueado": 1,
+          "x": 243,
+          "y": 61,
+          "z": 56,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 7,
+          "uri": "mostrosity_mimostro_mostro_color__0006.png",
+          "bloqueado": 1,
+          "x": 49,
+          "y": 181,
+          "z": 190,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 8,
+          "uri": "mostrosity_mimostro_mostro_color__0007.png",
+          "bloqueado": 1,
+          "x": 89,
+          "y": 190,
+          "z": 123,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 9,
+          "uri": "mostrosity_mimostro_mostro_color__0008.png",
+          "bloqueado": 1,
+          "x": 183,
+          "y": 96,
+          "z": 10,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        },
+        {
+          "id": 10,
+          "uri": "mostrosity_mimostro_mostro_color__0009.png",
+          "bloqueado": 1,
+          "x": 254,
+          "y": 188,
+          "z": 30,
+          "giro": 0,
+          "doble": 0,
+          "separacion": 0
+        }
+      ]
+    }
+  ]
+}

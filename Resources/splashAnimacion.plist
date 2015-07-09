@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mostrosity_splash_logo1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{469,569}}</string>
+			<key>offset</key>
+			<string>{-2,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8,6},{469,569}}</string>
+			<key>sourceSize</key>
+			<string>{489,583}</string>
+		</dict>
+		<key>mostrosity_splash_logo2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,573},{469,569}}</string>
+			<key>offset</key>
+			<string>{-2,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8,6},{469,569}}</string>
+			<key>sourceSize</key>
+			<string>{489,583}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>splashImagenAnimacion.png</string>
+		<key>size</key>
+		<string>{473,1144}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:74457641c3150bf79368626fa360abd7:41958317df7caf42ed76031860afd180:474549c0819ece7784404c295803eba1$</string>
+		<key>textureFileName</key>
+		<string>splashImagenAnimacion.png</string>
+	</dict>
+</dict>
+</plist>
